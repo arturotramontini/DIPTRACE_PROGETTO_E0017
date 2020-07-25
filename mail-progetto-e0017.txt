@@ -1,0 +1,37 @@
+
+riguardo allo zip PROGETTO_E0017 (FANUC 4 CANALI):
+
+LE RISCRIVO:
+
+1- PONTICELLO 2 POLI PER PORTARE IL 24V SULLE 4 RESISTENZE+LED
+ dimme se ti va bene ( posizione, funzionalità, ecc...)
+ 
+2- le misure della posizione dei fori le ho prese col calibro,
+  ergo sarebbe da verificare che sia tutto a posto,
+  può succedere che anche i decimi di mmillimetro siano importanti.
+  
+3- lo schema ovviamente sarebbe da controllare che non ci siano 
+ mancanze o aggiunte o connessioni sbagliate o pinnature sbagliate, ecc...
+ è abbastanza semplice , ma un controllo extra non fa male.
+ 
+4- forse c' era qualcos' altro ma non mi viene in mente,
+semmai te lo scrivo dopo.
+
+
+
+================================
+
+riguardo allo zip PROGETTO_FLAT40
+
+- ho messo foto e testo di qualcosa che non mi tornava,
+
+vedi se come ho interpretato ti va bene
+
+===============================
+
+
+ok, fammi sapere
+per ora ciao.
+arturo
+ 
+ 
